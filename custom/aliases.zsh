@@ -2,8 +2,8 @@ alias python=python3
 
 alias vim=nvim
 
-alias pmo="cd /Users/sarath.lun/Library/CloudStorage/OneDrive-SharedLibraries-EZECOM/IT\ Department\ -\ IT\ -\ PMO\ -\ IT\ -\ PMO/"
+alias pmo="cd $HOME/Library/CloudStorage/OneDrive-SharedLibraries-EZECOM/IT\ Department\ -\ IT\ -\ PMO\ -\ IT\ -\ PMO/"
 
-alias onedrive="cd /Users/sarath.lun/Library/CloudStorage/OneDrive-EZECOM/"
+alias onedrive="cd $HOME/Library/CloudStorage/OneDrive-EZECOM/"
 
 
