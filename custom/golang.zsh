@@ -1,9 +1,9 @@
 
-export GO111MODULE=on
+#export GO111MODULE=on
 export GOROOT="/usr/local/go"
 export GOPATH="$HOME/go-workspace"
 export GOBIN="$GOPATH/bin"
-export PATH="$PATH:$GOBIN"
+export PATH="$PATH:$GOROOT:$GOBIN"
 
 # The default logger is controlled by environment variables. Turn everything on like this:
 export GRPC_GO_LOG_VERBOSITY_LEVEL=99
