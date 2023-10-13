@@ -1,5 +1,5 @@
 
-#export GO111MODULE=on
+export GO111MODULE=on
 export GOROOT="/usr/local/go"
 export GOPATH="$HOME/go-workspace"
 export GOBIN="$GOPATH/bin"
