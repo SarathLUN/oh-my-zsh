@@ -14,5 +14,5 @@ alias lg=lazygit
 
 alias youtube='open https://youtube.com'
 
-alias smallscreen='cd ~/.config/alacritty && git checkout small-screen'
-alias bigscreen='cd ~/.config/alacritty && git checkout big-screen'
+alias smallscreen='cd ~/.config/alacritty && git checkout small-screen && cd -'
+alias bigscreen='cd ~/.config/alacritty && git checkout big-screen && cd -'
