@@ -1,6 +1,7 @@
 alias python=python3
 
-alias vim=lvim
+#alias vim=lvim
+alias vim=nvim
 
 alias pmo='cd $HOME/Ezecom\ Co.,\ Ltd/IT\ Department\ -\ Project\ Management\ Office\ -\ Documents/'
 
